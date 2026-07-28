@@ -1,4 +1,3 @@
-# Investigating Different Caching Approaches
 
 ## Introduction
 
