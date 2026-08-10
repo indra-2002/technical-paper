@@ -2,12 +2,12 @@
 
 ## 1. Strategies to Do Active Listening
 
-1. **Avoid getting distracted by your own thoughts** – Focus on the speaker and the topic instead.
-2. **Try not to interrupt the other person** – Let them finish speaking and then respond.
-3. **Use door openers** – Use phrases that show you are interested and encourage the other person to continue talking.
-4. **Show that you are listening with body language** – Maintain eye contact, nod, and use appropriate facial expressions.
-5. **Take notes when appropriate** – During important conversations, write down key points if necessary.
-6. **Paraphrase what others have said** – Repeat the main idea in your own words to make sure you are on the same page.
+ **Avoid getting distracted by your own thoughts** – Focus on the speaker and the topic instead.
+ **Try not to interrupt the other person** – Let them finish speaking and then respond.
+ **Use door openers** – Use phrases that show you are interested and encourage the other person to continue talking.
+ **Show that you are listening with body language** – Maintain eye contact, nod, and use appropriate facial expressions.
+ **Take notes when appropriate** – During important conversations, write down key points if necessary.
+ **Paraphrase what others have said** – Repeat the main idea in your own words to make sure you are on the same page.
 
 ---
 
@@ -99,13 +99,13 @@ For example, I might:
 
 I can make my communication more **assertive** by following these steps:
 
-1. **Speak clearly** – Say what I think or feel without being rude.
-2. **Use "I" statements** – Say "I feel..." or "I think..." instead of blaming others.
-3. **Listen to others** – Give the other person a chance to express their opinion.
-4. **Stay calm** – Avoid shouting or using angry words during disagreements.
-5. **Say no when necessary** – Politely refuse things that I cannot or do not want to do.
-6. **Avoid sarcasm and indirect comments** – Talk about the problem directly.
-7. **Respect different opinions** – I don't have to agree with someone to respect their point of view.
-8. **Think before responding** – Take a moment to understand the situation before speaking.
-9. **Focus on the problem, not the person** – Discuss what happened instead of attacking someone's character.
-10. **Practice regularly** – I can become more assertive by using these methods in everyday conversations.
+ **Speak clearly** – Say what I think or feel without being rude.
+ **Use "I" statements** – Say "I feel..." or "I think..." instead of blaming others.
+ **Listen to others** – Give the other person a chance to express their opinion.
+ **Stay calm** – Avoid shouting or using angry words during disagreements.
+ **Say no when necessary** – Politely refuse things that I cannot or do not want to do.
+ **Avoid sarcasm and indirect comments** – Talk about the problem directly.
+ **Respect different opinions** – I don't have to agree with someone to respect their point of view.
+ **Think before responding** – Take a moment to understand the situation before speaking.
+ **Focus on the problem, not the person** – Discuss what happened instead of attacking someone's character.
+ **Practice regularly** – I can become more assertive by using these methods in everyday conversations.
